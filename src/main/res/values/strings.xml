@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMD4008_Tutorial6_NadiaBravoMas</string>
+    <string name="paintApp">Paint App</string>
+    <string name="draw_line">Draw Line</string>
+    <string name="draw_rectangle">Draw Rectangle</string>
+    <string name="draw_circle">Draw Circle</string>
+    <string name="clear">Clear</string>
+    <string name="eraser">Eraser</string>
+</resources>
